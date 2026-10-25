@@ -1,0 +1,6 @@
+{
+  "name": "ReachInbox Email Scheduler",
+  "description": "Production-grade distributed email scheduler with BullMQ, Redis, Ethereal SMTP, live queue telemetry, and Slack rate limit alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
